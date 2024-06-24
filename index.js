@@ -23,7 +23,8 @@ process.stdin.on("data", function(data) {
         } else if(entrada_usuario == "guitarrra") {
             console.log("Então vc é trovoso mesmo hein")
         } else if(entrada_usuario == "bateria") {
-            console.log("Bater tambor")
+
+            
         
       
     }
