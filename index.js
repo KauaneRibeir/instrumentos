@@ -25,6 +25,6 @@ process.stdin.on("data", function(data) {
         } else if(entrada_usuario == "bateria") {
             console.log("Bater tambor")
         
-        }
+      
     }
 });
